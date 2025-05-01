@@ -65,9 +65,16 @@ You can also run predictions via:
 
 
 python churn_prediction.py
+-------
+
+## 🌐 Live Demo
+
+The Customer Churn Prediction app is live! 🚀  
+You can test it here:
+
+🔗 [Launch App](https://dudhesakshi-customer-churn-prediction-app-tnaemx.streamlit.app)
 
 
----
 
 ## 🧪 Sample Input Features
 
